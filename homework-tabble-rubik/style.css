@@ -1,0 +1,88 @@
+body {
+  background-color: aqua;
+}
+
+h2 {
+  color: black;
+}
+
+table {
+  background-color: black;
+  border: 2px black solid;
+  padding: 3px;
+  border-radius: 5px;
+  margin-left: 5%;
+  margin-top: 5%;
+}
+
+.top-left {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border-radius: 10px 10px 25px 10px;
+  margin: 2px;
+  border: 3px solid black;
+}
+.mid-top {
+  width: 100px;
+  height: 100px;
+  background-color: aqua;
+  border-radius: 10px 10px 25px 25px;
+  border: 3px solid black;
+}
+.top-right {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border-radius: 10px 10px 10px 25px;
+  margin: 2px;
+  border: 3px solid black;
+}
+.mid-left {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(251, 255, 0);
+  border-radius: 10px 25px 25px 10px;
+  margin: 2px;
+  border: 3px solid black;
+}
+.mid {
+  width: 100px;
+  height: 100px;
+  background-color: #0dff0d;
+  border-radius: 25px 25px 25px 25px;
+  margin: 2px;
+  border: 3px solid black;
+}
+.mid-right {
+  width: 100px;
+  height: 100px;
+  background-color: aqua;
+  border-radius: 25px 10px 10px 25px;
+  margin: 2px;
+  border: 3px solid black;
+}
+.bottom-left {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border-radius: 10px 25px 10px 10px;
+  margin: 2px;
+  border: 3px solid black;
+}
+.bottom-mid {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  border-radius: 25px 25px 10px 10px;
+  margin: 2px;
+  border: 3px solid black;
+}
+.bottom-right {
+  width: 100px;
+  height: 100px;
+  background-color: #0dff0d;
+  border-radius: 25px 10px 10px 10px;
+  margin: 2px;
+  border: 3px solid black;
+}
